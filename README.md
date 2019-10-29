@@ -52,6 +52,10 @@ Note: you can change the population (pop_size) of birds by editing the info file
 
 4)Go to the repository of the Flappy bird file in the terminal and run python flappy_bird.py file
 
+### overview with 5 Birds
+
+![](5birds.GIF)
+
 
 
 
