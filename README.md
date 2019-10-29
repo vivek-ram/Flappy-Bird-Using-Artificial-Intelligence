@@ -53,13 +53,13 @@ Note: you can change the population (pop_size) of birds by editing the info file
 4)Go to the repository of the Flappy bird file in the terminal and run python flappy_bird.py file
 
 
-### Training with 5Birds
+### Training with 5 Birds
 ![](5birds.GIF)                                                                        
 
-### Training with 10Birds
+### Training with 10 Birds
 ![](10birds.GIF)
 
-### Training with 20Birds
+### Training with 20 Birds
 ![](20birds.GIF)
  
 
